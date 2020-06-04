@@ -61,3 +61,4 @@ crashlytics-build.properties
 #Ignores customizados:
 *.dll
 /Assets/BayatGames/*
+/MonoBleedingEdge/*
